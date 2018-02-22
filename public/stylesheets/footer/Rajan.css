@@ -1,3 +1,8 @@
+.cover
+{
+    height:50%;
+    background-color: green
+}
 .nb-footer{
   background: #272727;
   margin-top: 60px;
@@ -20,7 +25,7 @@
   font-size: 18px;
   font-weight: 200;
   display: inline-block;
-  border-bottom: 2px solid #7BFF00;
+  border-bottom: 2px solid blue;
   padding-bottom: 5px;
   margin-bottom: -2px;
 }
@@ -38,10 +43,10 @@
   transition:all 0.4s ease-in-out;
 }
 .nb-footer .footer-single li a:hover{
-  color: #7BFF00;
+  color: blue;
 }
 .nb-footer .footer-single li a:hover i{
-  color: #7BFF00;
+  color: blue;
 }
 .nb-footer .dummy-logo {
     margin-top: 11px;
@@ -53,7 +58,7 @@
     margin-top: 24px;
 }
 .nb-footer .brand {
-    background: #7BFF00;
+    background: blue;
 }
 .nb-footer .dummy-logo i {
     font-size: 50px;
@@ -71,12 +76,12 @@
     padding: 5px 0;
 }
 .nb-footer .btn-footer{
-  border: 1px solid #7BFF00;
+  border: 1px solid blue;
   margin-top: 10px;
   color: #999;
 }
 .nb-footer .btn-footer:hover{
-  background: #7BFF00;
+  background: blue;
   color: #fff;
   transition:all 0.4s ease-in-out;
 
@@ -117,7 +122,7 @@
   font-size: 14px;
 }
 .nb-copyright .copyrt a{
-  color: #7BFF00;
+  color: blue;
 }
 .nb-copyright .footer-social{
 	margin-top: 10px;
@@ -132,7 +137,7 @@
   transition:all 0.4s ease-in-out;
 }
 .nb-copyright .footer-social i:hover{
-  background: #7BFF00;
+  background: blue;
   color: #fff;
 }
 .nb-copyright .footer-social .fa-facebook{
